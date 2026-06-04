@@ -18,7 +18,7 @@ const Support = () => {
   };
 
   const handleEmailSupport = () => {
-    window.location.href = "mailto:donbo7794@gmail.com";
+    window.location.href = "mailto:Redpayagent@gmail.com";
   };
 
   const handleLiveChat = () => {
