@@ -20,7 +20,7 @@ const PaymentInstructions = () => {
 
   const amount = "9,500";
   const accountNumber = "5281213683";
-  const bankName = "MONIEPOINT  MFB";
+  const bankName = "MONIEPOINT MFB";
   const accountName = "OLUWASEUN OWOTALE";
   const referenceId = `REF${Date.now()}`;
 
